@@ -48,8 +48,3 @@
 | **EV Charging Kit & Station System** | Designed EV charging control logic, battery protection, communication flow, and safety mechanisms. |
 | **CAN Communication System** | Embedded node-to-node CAN networking with arbitration and error-handling implementation. |
 | **Low-Power 4-Bit Full Adder & Subtractor (10T)** | GDI & PTL transistor design simulated and benchmarked for power, delay, and area in Microwind, DSCH, and LTspice. |
-
----
-
-
-</p>
